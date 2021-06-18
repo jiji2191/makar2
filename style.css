@@ -1,0 +1,19 @@
+body {
+    background-image: url(img/makar.jpg);
+    background-size: cover;
+}
+
+header {
+    display: flex;
+    justify-content: space-around;
+}
+
+.link {
+    font-size: 25px;
+    color: azure;
+    text-decoration: none;
+}
+
+.link:hover {
+    color: burlywood;
+}
